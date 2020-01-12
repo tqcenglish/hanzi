@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
+    "hanzi-writer": "^2.1.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
