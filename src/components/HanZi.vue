@@ -8,7 +8,7 @@
 <script>
 const HanziWriter = require('hanzi-writer');
 export default {
-  name: 'HelloWorld',
+  name: 'HanZi',
   props: {
     msg: String
   },
